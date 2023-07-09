@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/merebashhvili99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="merebashhvili99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/beka merebashvili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beka merebashvili" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/beka-merebashvili/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beka merebashvili" height="30" width="40" /></a>
 <a href="https://fb.com/ბექა მერებაშვილი" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ბექა მერებაშვილი" height="30" width="40" /></a>
 <a href="https://discord.gg/6049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6049" height="30" width="40" /></a>
 </p>
