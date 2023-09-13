@@ -1,7 +1,7 @@
 ![MasterHead](https://www.trio.dev/hubfs/Imported_Blog_Media/dbc631c76245baabe08c31d016a94de2-2.jpg)
 <h1 align="center">Hi 👋, I'm Beka Merebashvili</h1>
 <h3 align="center">A frontend developer from Georgia</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gifttps://giphy.com/clips/work-computer-laptop-1u01IRKm3cKUH4GU1U">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beka-merebashvili&label=Profile%20views&color=0e75b6&style=flat" alt="beka-merebashvili" /> </p>
 
