@@ -1,4 +1,4 @@
-![MasterHead](https://flyuptechnology.com/wp-content/uploads/2022/08/react-native.jpg)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Beka Merebashvili</h1>
 <h3 align="center">A frontend developer from Georgia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gifttps://giphy.com/clips/work-computer-laptop-1u01IRKm3cKUH4GU1U">
